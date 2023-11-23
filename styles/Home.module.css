@@ -54,3 +54,6 @@
   text-decoration: none;
   color:rgb(57, 79, 100);
 }
+.hyperlinks:hover{
+  color: #fff;
+}

@@ -7,4 +7,4 @@ const Post = () => {
 export default Post
 
 //without this file we will get a 404 page 
-// since we set a dynamic route, now any path enetred will redirect us to this page
+// since we set a dynamic route, now any path entered will redirect us to this page
